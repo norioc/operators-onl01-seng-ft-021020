@@ -1,5 +1,5 @@
 def unsafe?(speed)
-  
+  x<40 || x>60
 end
 
 
